@@ -8,6 +8,8 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		System.out.println("git_test");
+		System.out.println("git_test22");
+		System.out.println("git_test_branch");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
