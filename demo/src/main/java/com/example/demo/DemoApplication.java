@@ -10,6 +10,8 @@ public class DemoApplication {
 		System.out.println("git_test");
 		System.out.println("git_test22");
 		System.out.println("git_test_branch");
+		System.out.println("git_test_33");
+		
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
